@@ -17,3 +17,4 @@ from sqlalchemy.ext.asyncio import AsyncSession
 from app.api.models.product.product import Product
 
 from app.core.datebases.postgres import get_general_session
+
